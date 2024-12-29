@@ -1,6 +1,6 @@
 # Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+哎哟你干嘛 [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
 
